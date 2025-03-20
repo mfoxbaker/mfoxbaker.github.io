@@ -1,0 +1,104 @@
+/* You should edit the content below to fit your website */
+* {
+font-family: Garamond, Serif, sans-serif;
+color: #f5eec2;
+text-align: center;
+}
+
+
+body{
+	width:960px;
+	margin: 0 auto;
+	background-color:#A1AA76 ;
+}
+
+nav {
+background-color: #4B551F;
+padding: 10px;
+margin: 10px;
+}
+
+a{
+	color: #F4FFC4;
+}
+a:active{
+	color: #E9C4FF !important;
+}
+a:hover{
+	color: #E9C4FF !important;
+}
+
+
+li{
+	display: inline;
+	padding: 5px;
+}
+	
+section{
+	overflow: auto;
+	height:100%;
+	background-color: #4B551F;
+}
+
+
+main{
+	padding:10px;
+	margin:10px;
+	background-color: #4B551F;
+}
+
+
+article{
+	background-color:#A1AA76;
+	padding:10px;
+	margin:10px;
+	width: 280px;
+	float: left;
+	}
+	.element1{
+	width:350px;
+	padding: 50px;
+	float: right;
+		}	
+	.element2{
+	text-align: left;
+	width:920px;
+	padding: 10px;
+	}		
+	
+	.element2 ul{
+		text-align: left;
+	}
+	.element2 li{
+		display: list-item;
+		text-align: left;
+	 }
+	 div{
+	 	font-weight: bold;
+	 	text-align: left;
+	 }
+	 .element3{
+	 	width:350px;
+	 }
+	 .element4 dt{
+	 	text-align: left;
+
+	 }
+	 .element4 dd{
+	 	text-align: left;
+	 	
+	 }
+	 .element5{
+	 	width: 550px;
+	 }
+	 dt{
+	 	font-weight:bold;
+	 }
+	 h2{
+	 	font-family: cursive;
+	 }
+	footer {
+	background-color:#4B551F;
+	padding:10px;
+	margin:10px;
+}
